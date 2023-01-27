@@ -1,2 +1,2 @@
-# personal-website_1
-it's just a personal website 
+# personal-website
+it's  a personal website 
